@@ -1,0 +1,25 @@
+{
+  "name": "tdd-jest",
+  "version": "0.1.0",
+  "description": "Test Driven Development example using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliataf/tdd-jest.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "test-driven-development",
+    "jest"
+  ],
+  "author": "Ali Ataf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliataf/tdd-jest/issues"
+  },
+  "homepage": "https://github.com/aliataf/tdd-jest#readme"
+}
